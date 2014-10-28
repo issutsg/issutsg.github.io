@@ -172,6 +172,10 @@ i.scroll:hover {
 	
   .header {
 	background: url(../img/niharika_yoga.jpg) no-repeat center center scroll; 
+	  -webkit-background-size: contain;
+  -moz-background-size: contain;
+  -o-background-size: contain;
+  background-size: contain;
   }
 
   .callout {
